@@ -1,0 +1,47 @@
+*.exe
+.vscode/tasks.json
+arraystack.exe
+Lists using Array/initiallist
+*.vscode
+
+
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+*.class
+.class
+src/*.class
+.xml
+*.xml
+*.iml
+
+
+oldies/DSA with C/linked list/doublyCircularLinkedList
+oldies/DSA with C/queue using Array/queue

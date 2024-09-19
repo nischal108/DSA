@@ -1,0 +1,2 @@
+Input/Output (I/O) operations in Java involve reading data
+from and writing data to external sources such as files.
